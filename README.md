@@ -6,6 +6,7 @@ Testing of Unity and RPG Maker Unite guides.
     このプロジェクトは RPG Maker Unite 利用者のための Unity の用語解説、逆引き用語集のテストです。
     逆引き用語集フォルダに逆引き用語ファイルを作成しましたので、ご確認下さい。
 
+    update の仕方のファイルも作成しました。良かったらご一読下さい。
 
 # Project Summary
     This project is a test of the Unity glossary and reverse dictionary for RPG Maker Unite users.
