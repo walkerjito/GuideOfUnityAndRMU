@@ -1,15 +1,18 @@
-# RPG Maker Unite のアップデートの仕方(RPGMaker ＋Unity Editor モード時)
-
-
+# RPG Maker Unite のアップデートの仕方
 
 0\. これまでに変更している部分があったらバックアップを取っておく<br/>
 
-1\. パッケージマネージャーを開く<br/>
+1\. Unity のモードを [Unity Editor] モードに変更する。（RPG Maker + Unity Editor モードになっている方はそのままでも大丈夫です。）<br/>
+    ![Unity のモードを変更する](Image/ChangeMode001.png)<br/>
+
+2\. パッケージマネージャーを開く<br/>
     ![パッケージマネージャーを選択](Image/HowToUpdate.png)<br/>
 
-2\. パッケージマネージャーに RPG Maker Unite(以下RMU) があるか確認する。<br/>
+3\. パッケージマネージャーに RPG Maker Unite(以下RMU) があるか確認する。<br/>
     ![パッケージマネージャーを確認](Image/PackageManager001.png)<br/><br/>
-    2\.1\. パッケージマネージャーに RMU が無かった場合には下の方にある[ロード]の文字をクリックする<br/>
+    3\.1\. パッケージマネージャーの調べたいパッケージの種類を変える。上の方の[パッケージ：プロジェクト内]のプルダウンメニューを開いて[マイアセット]を選択する。<br/>
+        ![パッケージの種類を変える](Image/PackageManager001-2.png)
+    3\.2\. パッケージマネージャーに RMU が無かった場合には下の方にある[ロード]の文字をクリックする<br/>
         ![ロードをクリック](Image/PackageManager002.png)<br/><br/>
 3\. パッケージマネージャーに RMU が現れるので、右上の [更新] を選択する。([再ダウンロード]とあるが、これは既に更新してしまったため)<br/>
     ![更新](Image/PackageManager003.png)
